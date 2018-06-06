@@ -1,0 +1,3 @@
+D:/AndroidStudioProjects/ynnqoprsimple/app/.externalNativeBuild/cmake/debug/armeabi/CMakeFiles/rebuild_cache.dir
+D:/AndroidStudioProjects/ynnqoprsimple/app/.externalNativeBuild/cmake/debug/armeabi/CMakeFiles/hyperlpr.dir
+D:/AndroidStudioProjects/ynnqoprsimple/app/.externalNativeBuild/cmake/debug/armeabi/CMakeFiles/edit_cache.dir
